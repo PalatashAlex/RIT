@@ -155,11 +155,11 @@ box-shadow: 0 0 0 3px #F76902; /* золото */
 /* --- Фото (розміри як у першого) --- */
 .photo-2023-1 { width: 350px; height: 300px; }
 .photo-2023-2 { width: 230px; height: 300px; }
-.photo-2024-1 { display: block; margin: 10px auto; width: 500px; height: 400px; border-radius: 6px; }
+.photo-2024-1 { display: block; margin: 10px auto; width: 400px; height: 400px; border-radius: 6px; }
 .photo-2024-2 { display: block; margin: 10px auto; width: 400px; height: 500px; border-radius: 6px; }
 .photo-2024-3 { display: block; margin: 10px auto; width: 500px; height: 400px; border-radius: 6px; }
-.photo-2025-1 { display: block; margin: 10px auto; width: 400px; height: 350px; border-radius: 6px; }
-.photo-2025-2 { display: block; margin: 10px auto; width: 400px; height: 500px; border-radius: 6px; }
+.photo-2025-1 { display: block; margin: 10px auto; width: 400px; height: 300px; border-radius: 6px; }
+.photo-2025-2 { display: block; margin: 10px auto; width: 400px; height: 450px; border-radius: 6px; }
 .photo-2025-3 { display: block; margin: 10px auto; width: 400px; height: 500px; border-radius: 6px; }
 
 /* --- Відео кнопки --- */
@@ -267,5 +267,6 @@ margin: 10px 0 15px 20px;
 padding: 0;
 line-height: 1.6;
 }
+
 
 .research-card li { margin-bottom: 6px; }
